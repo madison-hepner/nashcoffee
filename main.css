@@ -1,0 +1,31 @@
+.pageHeader {
+    text-align: center;
+    font-size: 17pt;
+    padding: 1em;
+    font-weight: 400;
+    background-color: #B5C8DF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E5E9E4;
+}
+
+.shop {
+    flex-basis: 16%;
+    border: 2px dashed #B5C8DF;
+    padding: 1.5em;
+    margin: 0.5em;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+}
+
+
